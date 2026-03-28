@@ -1,0 +1,5 @@
+{
+  "name": "Authenticator Pro",
+  "description": "A simple, standard 2FA authentication app for unlimited accounts. Developed by arefin foysal.",
+  "requestFramePermissions": ["camera"]
+}
